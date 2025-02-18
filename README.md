@@ -17,8 +17,6 @@ A wanderer in the digital cosmos, exploring new technologies, building unique ex
 ## 🛰 Connect
 
 - **GitHub:** You're already here.
-- **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
-- **Website:** [yourwebsite.com](https://yourwebsite.com)
 
 ## 🌠 Final Thought
 
