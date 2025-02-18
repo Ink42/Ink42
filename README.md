@@ -1,12 +1,26 @@
-## Hi there 👋
+# Welcome to My Orbit
 
+![Image](https://github.com/user-attachments/assets/1064796f-77cb-43f5-a81a-e477a4ef2978)
 
-- 🦹 Software engineer specializing in **Flutter** and **Godot**, with a foundation in **Python**, **Java**,**dart** and **GDScript**.
-- 🏗️ Passionate about developing apps to save the world from the terminators while looking good doing it. As long as it's not Nano or Emacs, count me in...more of Vim fan
-- 🌍 I thrive on challenges, tackling problems not because they are easy, but because I thought they would be easy.
-- 🎓 Currently a software engineering student, balancing intense schoolwork with occasional ventures into the great outdoors—after all, balance is key
-- 👨‍💻 By day, I'm a Java Developer; 🥷🏻 by night, I dive into game development.
+> **Drifting through code, projects, and late-night ideas.**
 
-🐧 And no, I don't use Arch, btw :o
+## 🌌 Who Am I?
 
+A wanderer in the digital cosmos, exploring new technologies, building unique experiences, and sharing knowledge along the way. Whether it's AI, game development, or something entirely experimental, you'll find pieces of my journey here.
+
+## 🚀 What You'll Find
+
+- **Open Source Projects** – Little experiments and big ideas.
+- **Creative Code** – Where logic meets artistry.
+- **Dev Logs & Thoughts** – Notes from the void.
+
+## 🛰 Connect
+
+- **GitHub:** You're already here.
+- **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
+- **Website:** [yourwebsite.com](https://yourwebsite.com)
+
+## 🌠 Final Thought
+
+The universe is vast, and so is the world of code. Let's explore together.
 
